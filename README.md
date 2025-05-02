@@ -4,7 +4,7 @@ This repository implements a content-based hotel recommender that ingests a natu
 
 The dataset used is available at [Kaggle](https://www.kaggle.com/datasets/jiashenliu/515k-hotel-reviews-data-in-europe).
 
-For detailed methodology, experiments, and theoretical background, see the [Jupyter Notebook](Hotel Recommender System.ipynb) and the [full documentation](Hotel_Recommendation_System.pdf).
+For detailed methodology, experiments, and theoretical background, see the [Jupyter Notebook](Hotel_Recommender_System.ipynb) and the [full documentation](Hotel_Recommendation_System.pdf).
 
 ## License
 
